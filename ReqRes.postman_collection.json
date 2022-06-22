@@ -12,14 +12,11 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://reqres.in/api/users?page=2",
-					"protocol": "https",
+					"raw": "{{reqre}}api/users?page=2",
 					"host": [
-						"reqres",
-						"in"
+						"{{reqre}}api"
 					],
 					"path": [
-						"api",
 						"users"
 					],
 					"query": [
@@ -38,11 +35,9 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://reqres.in/api/users?page=3",
-					"protocol": "https",
+					"raw": "{{reqre}}/api/users?page=3",
 					"host": [
-						"reqres",
-						"in"
+						"{{reqre}}"
 					],
 					"path": [
 						"api",
@@ -64,11 +59,9 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://reqres.in/api/users?page=4",
-					"protocol": "https",
+					"raw": "{{reqre}}/api/users?page=4",
 					"host": [
-						"reqres",
-						"in"
+						"{{reqre}}"
 					],
 					"path": [
 						"api",
@@ -105,11 +98,9 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://reqres.in/api/users?page=5",
-					"protocol": "https",
+					"raw": "{{reqre}}/api/users?page=5",
 					"host": [
-						"reqres",
-						"in"
+						"{{reqre}}"
 					],
 					"path": [
 						"api",
